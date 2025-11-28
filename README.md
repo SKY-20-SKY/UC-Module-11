@@ -20,9 +20,9 @@ Summary has been provided towards the end of the file in a way that can be prese
 
 ### Please note the following:
 
-* 1.I incorporated feedback from last time and tried to make my Readme more presentable.
-* 2.I also performed IQR on the dataset and tried to be more detailed in my approach.
-* 3.All my notes now have a header followed by a colon (:) to distinguish between the assignment requirements and my notes.
+* I incorporated feedback from last time and tried to make my Readme more presentable.
+* I also performed IQR on the dataset and tried to be more detailed in my approach.
+* All my notes now have a header followed by a colon (:) to distinguish between the assignment requirements and my notes.
 
 
 
