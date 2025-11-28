@@ -17,9 +17,11 @@ The attributes have been **log-transformed and filtered** as deemed appropriate 
 
 Summary has been provided towards the end of the file in a way that can be presented to a car dealership client. I explained my analysis and approach in detail, and also on a high level for the client. The biases and challenges have been clearly stated and recommendations have been provided in the file.
 
-### Please Note
-1. I incorporated feedback from last time and tried to make my Read me more presentatble
-2. Also, performed log transformations for the dataset and try to be more detailed in my approach
+### Please note the following:
+
+1.I incorporated feedback from last time and tried to make my Readme more presentable.
+2.I also performed IQR on the dataset and tried to be more detailed in my approach.
+3.All my notes now have a header followed by a colon (:) to distinguish between the assignment requirements and my notes.
 
 
 
